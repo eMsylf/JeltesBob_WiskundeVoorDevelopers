@@ -1,0 +1,6 @@
+C:\Users\Bob\Documents\HKU (C)\DevMathBob\DevMathBob\bin\Debug\DevMathBob.dll
+C:\Users\Bob\Documents\HKU (C)\DevMathBob\DevMathBob\bin\Debug\DevMathBob.pdb
+C:\Users\Bob\Documents\HKU (C)\DevMathBob\DevMathBob\obj\Debug\DevMathBob.csprojAssemblyReference.cache
+C:\Users\Bob\Documents\HKU (C)\DevMathBob\DevMathBob\obj\Debug\DevMathBob.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Documents\HKU (C)\DevMathBob\DevMathBob\obj\Debug\DevMathBob.dll
+C:\Users\Bob\Documents\HKU (C)\DevMathBob\DevMathBob\obj\Debug\DevMathBob.pdb
